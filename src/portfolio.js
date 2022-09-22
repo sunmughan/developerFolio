@@ -179,7 +179,7 @@ const workExperiences = {
       company: "QwikList",
       companylogo: require("./assets/images/codeair.png"),
       date: "July 2018 – Present",
-      desc: "Codeair is my first startup which aim to provide services on A.I, Blockchain, Cryptocurrency, Mobile Application Development, Web Development, Backend Maintenance, DevOps, Framework Development, Enterprise Solutions and Student's Academic Projects. We aim to provide quality service at best affordable price.",
+      desc: "Codeair is my first startup which aim to provide services on A.I, Blockchain, Cryptocurrency, Mobile Application Development, Web Development, Backend Maintenance, DevOps, Framework Development, Enterprise Solutions and Student's Academic Projects.",
       descBullets: [
         "Made it to enters the top 100 growing companies in India 2021",
         "Clients over 17 countries"
@@ -342,6 +342,12 @@ const blogSection = {
       title: "iConfy — Instant Free use video conferencing app for android 📸",
       description:
         "iConfy is a free video conferencing and video meeting app that allows you to communicate with your friends, family or colleagues with ease."
+    },
+    {
+      url: "https://medium.com/@sunmughan/corona-tracking-multipurpose-open-source-android-app-c8dbc0d22b44",
+      title: "Corona Tracking Multipurpose Open Source Android App",
+      description:
+        "Quarantine Alert is a mobile application that allows users to complete daily health checkups and receive personalized symptom assessments. If the user experiences symptoms in line with Covid19 Coronavirus then they can use the preventive isolation tips to quarantine themselves. "
     }
   ],
   display: true // Set false to hide this section, defaults to true
@@ -357,11 +363,15 @@ const talkSection = {
 
   talks: [
     {
-      title: "PROJECT PRESENTATION",
+      title: "Vidhhya School Management ERP",
       subtitle: "Detailed slides of Vidhhya School Management System and Students Academic Project Development",
-      slides_url: "https://drive.google.com/file/d/12zpqbCjplwHU3dgY-YfyRM1br8bY_GnP/view?usp=drivesdk",
-      event_url: "https://drive.google.com/file/d/1C9zwAUKvKCfGuLLObXiJC1h1Hicri5og/view?usp=drivesdk"
-    }
+      slides_url: "https://drive.google.com/file/d/1C9zwAUKvKCfGuLLObXiJC1h1Hicri5og/view?usp=drivesdk"
+    },
+    {
+      title: "Final Year Projects",
+      subtitle: "I used to Develop platform specific academic projects for students of BCA, MCA, B.E, M.E, B.Tech, M.Tech, Msc. IT/CS and also for freelancers.",
+      slides_url: "https://drive.google.com/file/d/12zpqbCjplwHU3dgY-YfyRM1br8bY_GnP/view?usp=drivesdk"
+    },
   ],
   display: true // Set false to hide this section, defaults to true
 };
@@ -384,7 +394,7 @@ const contactInfo = {
   subtitle:
     "Have a project in mind and want to discuss ? Feel free to connect me over here 😌",
   number: "+91-9584215603",
-  email_address: "sunmughan@gmail.com"
+  email_address: "sunmughan@gmail.com",
   location: "Durg (C.G), India"
   
 };
