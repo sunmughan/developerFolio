@@ -5,7 +5,7 @@
 
 <p align="center">
   <kbd>
-<img src="./assets/images/home-section.png"></img>
+<img src="src/assets/images/home-section.png"></img>
   </kbd>
 </p>
 
