@@ -72,7 +72,7 @@ From your command line, clone and run developerFolio:
 
 ```bash
 # Clone this repository
-git clone https://github.com/sunmughan/myfolio.git
+git clone https://github.com/sunmughan/portfolio.git
 
 # Go into the repository
 cd myolio
