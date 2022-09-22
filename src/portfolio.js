@@ -356,9 +356,9 @@ const blogSection = {
 // Talks Sections
 
 const blogSection = {
-  title: "Blogs",
+  title: "Projects Documentation",
   subtitle: emoji(
-    "I LOVE TO SHARE MY LIMITED KNOWLEDGE AND GET A SPEAKER BADGE 😅",
+    "Projects i've worked in past 😅",
       ),
   displayMediumBlogs: "true", // Set true to display fetched medium blogs instead of hardcoded ones
   blogs: [
@@ -371,7 +371,7 @@ const blogSection = {
       title: "Final Year Projects",
       subtitle: "I used to Develop platform specific academic projects for students of BCA, MCA, B.E, M.E, B.Tech, M.Tech, Msc. IT/CS and also for freelancers.",
       slides_url: "https://drive.google.com/file/d/12zpqbCjplwHU3dgY-YfyRM1br8bY_GnP/view?usp=drivesdk"
-    },
+    }
   ],
   display: true // Set false to hide this section, defaults to true
 };
