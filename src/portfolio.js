@@ -8,7 +8,7 @@ import splashAnimation from "./assets/lottie/splashAnimation"; // Rename to your
 // Splash Screen
 
 const splashScreen = {
-  enabled: true, // set false to disable splash screen
+  enabled: false, // set false to disable splash screen
   animation: splashAnimation,
   duration: 2000 // Set animation duration as per your animation
 };
@@ -380,11 +380,13 @@ const podcastSection = {
 };
 
 const contactInfo = {
-  title: emoji("Contact Me ☎️"),
+  title: emoji("React out to me!"),
   subtitle:
     "Have a project in mind and want to discuss ? Feel free to connect me over here 😌",
   number: "+91-9584215603",
   email_address: "sunmughan@gmail.com"
+  location: "Durg (C.G), India"
+  
 };
 
 // Twitter Section
