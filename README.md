@@ -75,7 +75,7 @@ From your command line, clone and run developerFolio:
 git clone https://github.com/sunmughan/portfolio.git
 
 # Go into the repository
-cd myolio
+cd portfolio
 
 # Setup default environment variables
 
