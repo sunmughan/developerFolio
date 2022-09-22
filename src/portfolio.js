@@ -355,13 +355,13 @@ const blogSection = {
 
 // Talks Sections
 
-const talkSection = {
-  title: "TALKS",
+const blogSection = {
+  title: "Blogs",
   subtitle: emoji(
-    "I LOVE TO SHARE MY LIMITED KNOWLEDGE AND GET A SPEAKER BADGE 😅"
-  ),
-
-  talks: [
+    "I LOVE TO SHARE MY LIMITED KNOWLEDGE AND GET A SPEAKER BADGE 😅",
+      ),
+  displayMediumBlogs: "true", // Set true to display fetched medium blogs instead of hardcoded ones
+  blogs: [
     {
       title: "Vidhhya School Management ERP",
       subtitle: "Detailed slides of Vidhhya School Management System and Students Academic Project Development",
