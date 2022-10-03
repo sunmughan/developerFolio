@@ -176,7 +176,7 @@ const workExperiences = {
   experience: [
       {
       role: "CTO, Lead Full Stack Developer & Project Head",
-      company: "QwikList",
+      company: "CodeAir",
       companylogo: require("./assets/images/codeair.png"),
       date: "July 2018 – Present",
       desc: "Codeair is my first startup which aim to provide services on A.I, Blockchain, Cryptocurrency, Mobile Application Development, Web Development, Backend Maintenance, DevOps, Framework Development, Enterprise Solutions and Student's Academic Projects.",
@@ -395,7 +395,7 @@ const contactInfo = {
     "Have a project in mind and want to discuss ? Feel free to connect me over here 😌",
   number: "+91-9584215603",
   email_address: "sunmughan@gmail.com",
-  location: "Durg (C.G), India"
+  subtitle: "Durg (C.G), India"
   
 };
 
