@@ -394,8 +394,8 @@ const contactInfo = {
   subtitle:
     "Have a project in mind and want to discuss ? Feel free to connect me over here 😌",
   number: "+91-9584215603",
-  email_address: "sunmughan@gmail.com",
-  subtitle: "Durg (C.G), India"
+  email_address: "sunmughan@gmail.com"
+
   
 };
 
